@@ -1,0 +1,12 @@
+[
+  {
+    "imagen": "img/docker.png",
+    "titulo": "Docker",
+    "url": "https://www.youtube.com/watch?v=aA5BBSb1X1k&list=PLt9k2f9tRGayEfn7um47fy4uxxJ2QTcWD"
+  },
+  {
+    "imagen": "img/docker-compose.png",
+    "titulo": "Docker Compose",
+    "url": "https://www.youtube.com/watch?v=gxowNBBOlu0&list=PLt9k2f9tRGayPG9_P40tc8h_A3y_4yOE-&index=1"
+  }
+]
