@@ -8,5 +8,10 @@
     "imagen": "img/docker-compose.png",
     "titulo": "Docker Compose",
     "url": "https://www.youtube.com/watch?v=gxowNBBOlu0&list=PLt9k2f9tRGayPG9_P40tc8h_A3y_4yOE-&index=1"
+  },
+  {
+    "imagen": "img/kcna.png",
+    "titulo": "Kubernetes and Cloud Native Associate (En construccion)",
+    "url": "https://www.youtube.com/watch?v=LszUXQ6U4Fs&list=PLt9k2f9tRGazqxnoLqm5CtR6vwOWat7w4&index=1"
   }
 ]
