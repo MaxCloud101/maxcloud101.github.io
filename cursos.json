@@ -13,5 +13,10 @@
     "imagen": "img/kcna.png",
     "titulo": "Kubernetes and Cloud Native Associate",
     "url": "https://www.youtube.com/watch?v=LszUXQ6U4Fs&list=PLt9k2f9tRGazqxnoLqm5CtR6vwOWat7w4&index=1"
+  },
+  {
+    "imagen": "img/helm.png",
+    "titulo": "Helm (En construccion)",
+    "url": "https://www.youtube.com/watch?v=Iw31zaqhwhQ&list=PLQoEUzRknVzI&index=1"
   }
 ]
