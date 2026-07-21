@@ -18,5 +18,10 @@
     "imagen": "img/helm.png",
     "titulo": "Helm",
     "url": "https://www.youtube.com/watch?v=Iw31zaqhwhQ&list=PLQoEUzRknVzI&index=1"
+  },
+  {
+    "imagen": "img/kustomize.png",
+    "titulo": "Kustomize",
+    "url": "https://www.youtube.com/watch?v=slcpXoCjnGU&list=PLKqwgYiGw9WY&index=1"
   }
 ]
